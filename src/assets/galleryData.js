@@ -1,0 +1,41 @@
+import img1 from '../assets/img1.png';
+import img2 from '../assets/img2.png';
+import img3 from '../assets/img3.png';
+import img4 from '../assets/img4.png';
+import img5 from '../assets/img5.png';
+import img6 from '../assets/img6.png';
+
+const GalleryData = [
+    {
+        g_no: 1,
+        g_name: "dokumentasi",
+        g_img: img1,
+    },
+    {
+        g_no: 2,
+        g_name: "dokumentasi",
+        g_img: img2,
+    },
+    {
+        g_no: 3,
+        g_name: "dokumentasi",
+        g_img: img3,
+    },
+    {
+        g_no: 4,
+        g_name: "dokumentasi",
+        g_img: img4,
+    },
+    {
+        g_no: 5,
+        g_name: "dokumentasi",
+        g_img: img5,
+    },
+    {
+        g_no: 6,
+        g_name: "dokumentasi",
+        g_img: img6,
+    },
+];
+
+export default GalleryData;

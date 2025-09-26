@@ -6,14 +6,13 @@
     gap: 80px;
     margin: 80px 170px;
     overflow: hidden;
-    /* biar ga ada scroll horizontal */
 }
 
 .profile-title {
     position: relative;
 }
 
-.profile-title h1 {
+.profile-title h1 { 
     padding: 0px 30px;
     font-size: 50px;
     font-weight: 600;
@@ -90,7 +89,6 @@
     min-height: 30;
 }
 
-/* Bullet pagination */
 .swiper-pagination {
     position: relative;
     z-index: 10;

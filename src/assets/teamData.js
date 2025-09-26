@@ -59,10 +59,10 @@ const teamData = [
         photo: img_team6
     },
     {
-        Name: "Member Three",
-        Nim: "192837465",
-        Motto: "Teamwork makes the dream work.",
-        Funfact: "Can play 3 instruments.",
+        Name: "Rifqi Aunur Rahman",
+        Nim: " 12507050012",
+        Motto: "Do Your Best, Trust The Process",
+        Funfact: "Diem amat. Ya kalo dah deket mah akrab (Literally semua orang kek gitu).",
         photo: img_team7
     },
     {

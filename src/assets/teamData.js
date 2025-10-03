@@ -66,10 +66,10 @@ const teamData = [
         photo: img_team7
     },
     {
-        Name: "Member Three",
-        Nim: "192837465",
-        Motto: "Teamwork makes the dream work.",
-        Funfact: "Can play 3 instruments.",
+        Name: "Ade Jalalludin",
+        Nim: "1257050036",
+        Motto: "Kecil Melangkah, Besar Tiba",
+        Funfact: "Aku orangnya humble, kalem, mudah bergaul, selalu berusaha berpikir positif, dan lebih suka mendengarkan daripada berbicara berlebihan.",
         photo: img_team8
     },
 ]

@@ -10,7 +10,7 @@ const Footer = () => {
                     <p>© {new Date().getFullYear()} All Rights Reserved</p>
                 </div>
                 <div className="footer-right">
-                    <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">GitHub</a>
+                    <a href="https://github.com/Afira911" target="_blank" rel="noopener noreferrer">GitHub</a>
                     <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                     <a href="mailto:your@email.com">Email</a>
                 </div>

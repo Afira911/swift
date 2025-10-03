@@ -39,17 +39,14 @@
     transition: color 0.3s;
 }
 
-/* Hover effect */
 .anchor-link:hover {
     color: #DF8908;
 }
 
-/* Active (saat diklik) */
 .anchor-link.active {
     color: #B415FF;
 }
 
-/* overlay gelap belakang popup */
 .popup-overlay {
     position: fixed;
     top: 0;
@@ -63,7 +60,6 @@
     z-index: 1000;
 }
 
-/* kotak popup */
 .popup-box {
     background: #111;
     padding: 30px;

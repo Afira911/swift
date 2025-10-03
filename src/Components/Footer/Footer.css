@@ -4,7 +4,6 @@
     margin-top: 80px;
     border-top: 1px solid #444;
     background: #0a0a0a;
-    /* atau sesuai background websitemu */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,7 +15,6 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    /* biar responsive */
 }
 
 .footer-left h2 {

@@ -16,7 +16,7 @@ const Navbar = () => {
     { url: "https://www.instagram.com/datiangrr/", user: "@datiangrr" },
     { url: "https://www.instagram.com/annxie.ty/", user: "@annxie.ty" },
     { url: "https://www.instagram.com/farelramadhanii/", user: "@farelramadhanii" },
-    { url: "https://www.instagram.com/reyhanrafadarmawan/", user: "@reyhanrafadarmawan" }
+    { url: "https://www.instagram.com/@emangvoleh/", user: "@emangvoleh" }
   ]
 
   return (<>
